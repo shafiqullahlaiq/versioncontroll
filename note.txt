@@ -26,3 +26,6 @@ it reset the
 I added this line after one week.
 and now Iam testing the entire part of the page for us.
  
+
+This is the new line for featyure branch of the git.
+
