@@ -19,5 +19,10 @@ This command show as the history of the git
 4 -git reset --hard <commit>
   -git reset --origin/master
 it reset the 
-this is the three line for the paractice.
+
+
+
+
+I added this line after one week.
+and now Iam testing the entire part of the page for us.
  
