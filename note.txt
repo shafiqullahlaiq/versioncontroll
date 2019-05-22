@@ -2,3 +2,22 @@
 version controll is the programm that prevent us from the revision of the code.
 advantage of the version controll.
 1 by the version cont
+
+
+commands of the version controll.
+
+
+1 git pull 
+This command download the new changes to the pc
+
+2 MERGE CONFLICT:
+git pull 
+
+3 git log
+This command show as the history of the git 
+
+4 -git reset --hard <commit>
+  -git reset --origin/master
+it reset the 
+this is the three line for the paractice.
+ 
