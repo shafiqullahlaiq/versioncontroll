@@ -1,0 +1,4 @@
+ What is version controll.
+version controll is the programm that prevent us from the revision of the code.
+advantage of the version controll.
+1 by the version cont
